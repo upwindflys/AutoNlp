@@ -28,8 +28,8 @@ For more information, check https://github.com/HariharasudhanAS/AutoNLP-WAIC2019
 
 metrics  |  O1  | O2  | 
 ---- | ----- | ------  
- ALC | 0.8139 | 单元格内容 
-2AUC-1  | 0.8168 | 单元格内容
+ ALC | 0.8139 |  0.9277
+2AUC-1  | 0.8168 | 0.9723
 
 
 

@@ -26,6 +26,10 @@ For more information, check https://github.com/HariharasudhanAS/AutoNLP-WAIC2019
 
 ## Experiment Results:
 
+metrics  |  O1  | O2  | 
+---- | ----- | ------  
+ ALC | 0.8139 | 单元格内容 
+2AUC-1  | 0.8168 | 单元格内容
 
 
 

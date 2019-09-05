@@ -9,7 +9,7 @@ Rank: Second place
 Solution: PPT link
 
 ## Document description:
-Code Framework is [AutoNlp-WAIC2019 starting kit](https://github.com/mortal123/autonlp_starting_kit)
+Code Framework is [AutoNlp-WAIC2019 starting kit](https://github.com/mortal123/autonlp_starting_kit)  
 AutoDL_ingestion_program/: The code and libraries used on Codalab to run your submission.  
 AutoDL_scoring_program/: The code and libraries used on Codalab to score your submission.  
 AutoDL_sample_code_submission/: An example of code submission you can use as template.  

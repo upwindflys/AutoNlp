@@ -26,10 +26,10 @@ For more information, check https://github.com/HariharasudhanAS/AutoNLP-WAIC2019
 
 ## Experiment Results:
 
-metrics  |  O1  | O2  | 
----- | ----- | ------  
- ALC | 0.8139 |  0.9277
-2AUC-1  | 0.8168 | 0.9723
+metrics  |  O1  | O2  | O3  |  O4  |  O5
+---- | ----- | ------  | ----- | ----- | ----- |
+ ALC | 0.8139 |  0.9277  | 0.8053 | 0.9758 | 0.8870 | 
+2AUC-1  | 0.8168 | 0.9723 | 0.8345 | 0.9966 | 0.9447 |
 
 
 

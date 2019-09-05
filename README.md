@@ -1,7 +1,7 @@
 # AutoNlp
 AutoNLP-WAIC2019
 
-AutoDL competition introduction: https://autodl.chalearn.org/
+AutoDL competition introduction:[ NeurIPS 2019 AutoDL Challenges] https://autodl.chalearn.org/
 
 Team: Upwind_flys
 Rank: Second place

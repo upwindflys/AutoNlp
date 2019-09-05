@@ -9,6 +9,7 @@ Rank: Second place
 Solution: PPT link
 
 ## Document description:
+Code Framework is [AutoNlp-WAIC2019 starting kit](https://github.com/mortal123/autonlp_starting_kit)
 AutoDL_ingestion_program/: The code and libraries used on Codalab to run your submission.
 AutoDL_scoring_program/: The code and libraries used on Codalab to score your submission.
 AutoDL_sample_code_submission/: An example of code submission you can use as template.
@@ -22,7 +23,7 @@ model_manager.py: Automatic model generation from model library
 
 Run the project locally:
 python run_local_test.py -dataset_dir=./AutoDL_sample_data/DEMO -code_dir=./AutoDL_sample_code_submission
-For more information, check https://github.com/HariharasudhanAS/AutoNLP-WAIC2019
+
 
 ## Experiment Results:
 

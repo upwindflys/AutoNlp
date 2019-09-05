@@ -10,19 +10,21 @@ Solution: PPT link
 
 ## Document description:
 Code Framework is [AutoNlp-WAIC2019 starting kit](https://github.com/mortal123/autonlp_starting_kit)
-AutoDL_ingestion_program/: The code and libraries used on Codalab to run your submission.
-AutoDL_scoring_program/: The code and libraries used on Codalab to score your submission.
-AutoDL_sample_code_submission/: An example of code submission you can use as template.
-AutoDL_sample_data/: Some sample data to test your code before you submit it.
+AutoDL_ingestion_program/: The code and libraries used on Codalab to run your submission.  
+AutoDL_scoring_program/: The code and libraries used on Codalab to score your submission.  
+AutoDL_sample_code_submission/: An example of code submission you can use as template.  
+AutoDL_sample_data/: Some sample data to test your code before you submit it.  
 
 ## Main python module:
-run_local_test.py: A python script to simulate the runtime in codalab
-model.py: Implementation of our algorithm and logics
-data_manager.py: Data processing related module
-model_manager.py: Automatic model generation from model library
+run_local_test.py: A python script to simulate the runtime in codalab  
+model.py: Implementation of our algorithm and logics  
+data_manager.py: Data processing related module  
+model_manager.py: Automatic model generation from model library  
 
-Run the project locally:
+Run the project locally: 
+```
 python run_local_test.py -dataset_dir=./AutoDL_sample_data/DEMO -code_dir=./AutoDL_sample_code_submission
+```
 
 
 ## Experiment Results:
@@ -36,5 +38,5 @@ metrics  |  O1  | O2  | O3  |  O4  |  O5
 
 ## Other related work:
 Our work in AutoML and meta-learning fields:
-Efficient Automatic Meta Optimization Search for Few-Shot Learning (Arxiv link)
+Efficient Automatic Meta Optimization Search for Few-Shot Learning
 

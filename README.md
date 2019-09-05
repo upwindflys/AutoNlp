@@ -6,7 +6,6 @@ AutoDL competition introduction:[NeurIPS 2019 AutoDL Challenges](https://autodl.
 Team: Upwind_flys
 Rank: Second place
 
-Solution: PPT link
 
 ## Document description:
 Code Framework is [AutoNlp-WAIC2019 starting kit](https://github.com/mortal123/autonlp_starting_kit)  

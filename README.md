@@ -7,6 +7,9 @@ Team: Upwind_flys
 Rank: Second place
 
 
+## Methods:
+Our algorithm process data and select models automatically, model lib contains Character-based model, word-based model, which can be selected according to data meta-feature. Then algorithm automatically select early stop strategy and restore weights based on the Information of feedback simulation.
+
 ## Document description:
 Code Framework is [AutoNlp-WAIC2019 starting kit](https://github.com/mortal123/autonlp_starting_kit)  
 AutoDL_ingestion_program/: The code and libraries used on Codalab to run your submission.  

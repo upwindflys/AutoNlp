@@ -35,7 +35,7 @@ metrics  |  O1  | O2  | O3  |  O4  |  O5
 ---- | ----- | ------  | ----- | ----- | ----- |
  ALC | 0.8139 |  0.9277  | 0.8053 | 0.9758 | 0.8870 | 
 2AUC-1  | 0.8168 | 0.9723 | 0.8345 | 0.9966 | 0.9447 |
-curve |[O1](https://github.com/upwindflys/AutoNlp/tree/master/result/learning-curve-O1.png)
+curve |![O1](https://github.com/upwindflys/AutoNlp/tree/master/result/learning-curve-O1.png)
 
 
 ## Other related work:

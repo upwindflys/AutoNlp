@@ -42,4 +42,4 @@ Our work in AutoML and meta-learning fields:
 [Efficient Automatic Meta Optimization Search for Few-Shot Learning](https://arxiv.org/abs/1909.03817)
 
 ## Licensing
-The project is developed at Lenovo INC,It is distributed under [MIT LICENSE](https://github.com/upwindflys/AutoNlp/blob/master/LICENSE)
+The project is developed at Lenovo Inc,It is distributed under [MIT LICENSE](https://github.com/upwindflys/AutoNlp/blob/master/LICENSE)

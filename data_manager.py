@@ -257,7 +257,7 @@ class DataGenerator(object):
 
     #for svm vectorize data
     def vectorize_data(self, x_train, x_val=None):
-        vectorizer = TfidfVectorizer(ngram_range=(1, 1))
+        vectorizer = TfidfVectorizer(encoding='latin-1',ngram_range=(1, 1))
         if x_val:
             full_text = x_train + x_val
         else:
